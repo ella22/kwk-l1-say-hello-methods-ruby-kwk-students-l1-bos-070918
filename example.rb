@@ -1,5 +1,6 @@
-$your_name_1 = "Christina"
+$your_name = "MN"
 def say_hello
-  puts "Hello #{$your_name_1}
-end
+  puts "Hello #{$your_name}"
+end 
 
+say_hello
