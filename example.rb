@@ -3,9 +3,8 @@
 #   puts "Hello #{$your_name}"
 # end 
 
-def say_hello (your_name)
-puts "Hello #{your_name}!"
+def say_hello (your_name, ny_name="Tallie")
+puts "Hello #{your_name}!I'm #{my name}"
 end 
-say_hello("Charlie")
-say_hello("Jeffy")
-say_hello("nuggets")
+say_hello("Charlie", "Hope", "Amber", "Julia")
+
