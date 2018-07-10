@@ -6,5 +6,5 @@
 def say_hello (your_name, ny_name="Tallie")
 puts "Hello #{your_name}!I'm #{my name}"
 end 
-say_hello("Charlie", "Hope", "Amber", "Julia")
+say_hello("Charlie", "Hope")
 
